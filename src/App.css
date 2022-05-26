@@ -86,8 +86,18 @@
 
 }
 
-@media screen and (max-width: 768) {
+.conteudo-single {
+  margin-top: 40px;
+  width: 50%;
+  padding: 8px 30px;
+}
+
+@media screen and (max-width: 768px) {
   .items-form input[type="text"]{
+    width: 100%;
+  }
+
+  .conteudo-single{
     width: 100%;
   }
 }

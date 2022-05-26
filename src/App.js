@@ -35,6 +35,30 @@ function App() {
 
       </div>
 
+      <div className='content'>
+        <div className='center'>
+          <div className='conteudo-single'>
+            <h3>Jornadas</h3>
+            <p>Caminho a ser seguido!</p>
+          </div>
+
+          <div className='conteudo-single'>
+            <h3>Jornadas</h3>
+            <p>Caminho a ser seguido!</p>
+          </div>
+
+          <div className='conteudo-single'>
+            <h3>Jornadas</h3>
+            <p>Caminho a ser seguido!</p>
+          </div>
+
+          <div className='conteudo-single'>
+            <h3>Jornadas</h3>
+            <p>Caminho a ser seguido!</p>
+          </div>
+        </div>
+      </div>
+
     </div>
   );
 }
